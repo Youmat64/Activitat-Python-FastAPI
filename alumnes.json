@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "nom": "Anna",
+        "cognom": "García",
+        "data": {
+            "dia": 12,
+            "mes": 5,
+            "any": 2005
+        },
+        "email": "anna.garcia@example.com",
+        "feina": false,
+        "curs": "2n Batxillerat"
+    },
+    {
+        "id": 2,
+        "nom": "Marc",
+        "cognom": "Pérez",
+        "data": {
+            "dia": 3,
+            "mes": 8,
+            "any": 2006
+        },
+        "email": "marc.perez@example.com",
+        "feina": false,
+        "curs": "1r Batxillerat"
+    },
+    {
+        "id": 3,
+        "nom": "Laura",
+        "cognom": "Fernández",
+        "data": {
+            "dia": 22,
+            "mes": 11,
+            "any": 2004
+        },
+        "email": "laura.fernandez@example.com",
+        "feina": true,
+        "curs": "2n FP Grau Mitjà"
+    },
+    {
+        "id": 4,
+        "nom": "Pau",
+        "cognom": "López",
+        "data": {
+            "dia": 15,
+            "mes": 2,
+            "any": 2007
+        },
+        "email": "pau.lopez@example.com",
+        "feina": false,
+        "curs": "4t ESO"
+    },
+    {
+        "id": 5,
+        "nom": "Sofia",
+        "cognom": "Martínez",
+        "data": {
+            "dia": 30,
+            "mes": 9,
+            "any": 2005
+        },
+        "email": "sofia.martinez@example.com",
+        "feina": true,
+        "curs": "2n FP Grau Superior"
+    }
+]
